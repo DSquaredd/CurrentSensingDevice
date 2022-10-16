@@ -11,3 +11,5 @@ To interface with screen had to switch to arduino styel programming.
 ![Current Sensor](https://user-images.githubusercontent.com/115327300/196051214-4842847a-54dc-489e-9dce-fb5c9eea9f23.JPG)
 ![Robotcarwithgagenonumber3](https://user-images.githubusercontent.com/115327300/196051494-f4900144-d15d-4b2c-9bea-a0def6ff0e47.png)
 ![ieeedevice](https://user-images.githubusercontent.com/115327300/196051504-118d01c8-185f-4496-9128-3b585405fc40.png)
+1st practice layout schematics: 
+![image](https://user-images.githubusercontent.com/115327300/196052875-efd07f46-afb3-4728-9881-655b70e10d69.png)
