@@ -18,5 +18,5 @@ To interface with screen had to switch to arduino style programming.
 ![ieeedevice](https://user-images.githubusercontent.com/115327300/196051504-118d01c8-185f-4496-9128-3b585405fc40.png)
 
 Interfacing I2c screen with a I2c currrent/voltage sense Module
-![image](https://user-images.githubusercontent.com/115327300/199589273-84a610da-f68e-4b4d-9657-182d631d8716.png)
+![image](https://user-images.githubusercontent.com/115327300/199589952-d02e834c-0957-440b-909a-aefda44cf908.png)
 
