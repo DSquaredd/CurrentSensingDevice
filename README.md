@@ -17,6 +17,6 @@ To interface with screen had to switch to arduino style programming.
 ![Robotcarwithgagenonumber3](https://user-images.githubusercontent.com/115327300/196051494-f4900144-d15d-4b2c-9bea-a0def6ff0e47.png)
 ![ieeedevice](https://user-images.githubusercontent.com/115327300/196051504-118d01c8-185f-4496-9128-3b585405fc40.png)
 
-Interfacing I2c screen with a I2c currrent/voltage sense Module
+Testing interfacing I2c screen with a I2c currrent/voltage sense Module
 ![image](https://user-images.githubusercontent.com/115327300/199589952-d02e834c-0957-440b-909a-aefda44cf908.png)
 
